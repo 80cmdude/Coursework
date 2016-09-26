@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demo.Demo06_Diagnostics\bin\Debug\Firebrand.Demo.Demo06_Diagnostics.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demo.Demo06_Diagnostics\bin\Debug\Firebrand.Demo.Demo06_Diagnostics.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demo.Demo06_Diagnostics\bin\Debug\Firebrand.Demo.Demo06_Diagnostics.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demo.Demo06_Diagnostics\obj\Debug\Firebrand.Demo.Demo06_Diagnostics.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demo.Demo06_Diagnostics\obj\Debug\Firebrand.Demo.Demo06_Diagnostics.pdb
