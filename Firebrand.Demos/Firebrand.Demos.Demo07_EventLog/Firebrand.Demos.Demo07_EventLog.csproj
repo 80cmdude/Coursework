@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>54d10401-911d-4b30-b791-bbececb044c9</ProjectGuid>
+    <ProjectGuid>{6A84BE6E-C2EC-4FC7-B462-2BDFCDEFEF52}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Firebrand.Demos.Demo07_EventLog</RootNamespace>

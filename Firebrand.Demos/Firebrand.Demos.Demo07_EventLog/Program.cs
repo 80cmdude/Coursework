@@ -15,6 +15,8 @@ namespace Firebrand.Demos.Demo07_EventLog
         static void WriteEvent(string message)
         {
             string ApplicationName = "Facebook";
+
+            System.Diagnostics.EventLog.WriteEntry(ApplicationName, message, System.Diagnostics.EventLogEntryType.Error);
         }
     }
 }
