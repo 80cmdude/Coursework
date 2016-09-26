@@ -12,14 +12,24 @@ namespace Firebrand.Demos
         {
             return x + y;
         }
+        
         public int Sub(int x, int y)
         {
             return x - y;
         }
+        
         public int Div(int x, int y)
         {
-            return x / y;
+            try
+            {
+                return x / y;
+            }
+            catch (DivideByZeroException e)
+            {
+                return 0;
+            }
         }
+        
         public int Mul(int x, int y)
         {
             return x * y;
