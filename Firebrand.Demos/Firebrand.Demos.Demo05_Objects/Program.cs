@@ -12,41 +12,44 @@ namespace Firebrand.Demos
         {
             int x, y, result = 0;
             string op;
-
-            Console.WriteLine("Enter x");
-            x = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Enter y");
-            y = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Enter Operation");
-            op = Console.ReadLine();
-
+            
             AdvancedCalculator calc = new AdvancedCalculator();
-
-            switch (op)
+            
+            while (true)
             {
-                case "Add":
-                    result = calc.Add(x, y);
-                    break;
-                case "Sub":
-                    result = calc.Sub(x, y);
-                    break;
-                case "Mul":
-                    result = calc.Mul(x, y);
-                    break;
-                case "Div":
-                    result = calc.Div(x, y);
-                    break;
-                case "Mod":
-                    result = calc.mod(x, y);
-                    break;
-                default:
-                    break;
+                Console.WriteLine("Enter x");
+                x = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter y");
+                y = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter Operation");
+                op = Console.ReadLine().ToUpper();
+
+                switch (op)
+                {
+                    case "ADD":
+                        result = calc.Add(x, y);
+                        break;
+                    case "SUB":
+                        result = calc.Sub(x, y);
+                        break;
+                    case "MUL":
+                        result = calc.Mul(x, y);
+                        break;
+                    case "DIV":
+                        result = calc.Div(x, y);
+                        break;
+                    case "MOD":
+                        result = calc.mod(x, y);
+                        break;
+                    case "QUIT":
+                        return;
+                    default:
+                        break;
+                }
+                Console.WriteLine("Answer = " + result);
             }
-            Console.WriteLine(result);
-            Console.WriteLine("Press enter to end");
-            Console.ReadLine();
         }
     }
 }
