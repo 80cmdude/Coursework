@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\bin\Debug\Firebrand.Demos.Demo09_Structs.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\bin\Debug\Firebrand.Demos.Demo09_Structs.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\bin\Debug\Firebrand.Demos.Demo09_Structs.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\obj\Debug\Firebrand.Demos.Demo09_Structs.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\obj\Debug\Firebrand.Demos.Demo09_Structs.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo09_Structs\obj\Debug\Firebrand.Demos.Demo09_Structs.pdb
