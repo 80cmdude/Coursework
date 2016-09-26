@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo08_Tracing\bin\Release\Firebrand.Demos.Demo08_Tracing.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo08_Tracing\bin\Release\Firebrand.Demos.Demo08_Tracing.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo08_Tracing\bin\Release\Firebrand.Demos.Demo08_Tracing.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo08_Tracing\obj\Release\Firebrand.Demos.Demo08_Tracing.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo08_Tracing\obj\Release\Firebrand.Demos.Demo08_Tracing.pdb
