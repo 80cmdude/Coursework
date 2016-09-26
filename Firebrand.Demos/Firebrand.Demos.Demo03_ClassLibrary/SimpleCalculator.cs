@@ -21,21 +21,21 @@ namespace Firebrand.Demos
         public int Div(int x, int y)
         {
 
-            if (y == 0)
-            {
-                throw new ArgumentOutOfRangeException("Y Cannot be 0!");
-            }
-            if (x == null || y == null)
-            {
-                throw new ArgumentNullException("X and Y must be a number");
-            }
+            //if (y == 0)
+            //{
+            //    throw new ArgumentOutOfRangeException("Y Cannot be 0!");
+            //}
+            //if (x == null || y == null)
+            //{
+            //    throw new ArgumentNullException("X and Y must be a number");
+            //}
             try
             {
                 return x / y;
             }
             catch (DivideByZeroException e)
             {
-                return 0;
+                throw new ArgumentOutOfRangeException("Y Cannot be 0!");
             }
             catch (Exception e)
             {
