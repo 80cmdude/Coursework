@@ -14,7 +14,40 @@ namespace Firebrand.Demos
 
             rover.Vocalize();
 
+            GermanShepard max = new GermanShepard();
+            max.Vocalize();
+
+            Monkey harmabe = new Monkey();
+            harmabe.DisplayName();
+            harmabe.Vocalize();
+
+            var animals = new IAnimal[] 
+            {
+                new Dog(),
+                new GermanShepard(),
+                new Monkey()
+            };
+
+            foreach (var animal in animals) 
+            {
+                animal.Vocalize();
+            }
+
             Console.ReadKey();
+        }
+    }
+
+    public class Monkey : Animal
+    {
+        public Monkey()
+            : base(2, "Justice for me")
+        {
+
+        }
+        
+        public override void DisplayName()
+        {
+            Console.WriteLine("Monkey");
         }
     }
 
@@ -33,6 +66,14 @@ namespace Firebrand.Demos
         {
             //base.DisplayName();
             Console.WriteLine("dog");
+        }
+    }
+
+    public class GermanShepard : Dog
+    {
+        public GermanShepard() : base("Big Woof from German Shepard")
+        {
+
         }
     }
 }
