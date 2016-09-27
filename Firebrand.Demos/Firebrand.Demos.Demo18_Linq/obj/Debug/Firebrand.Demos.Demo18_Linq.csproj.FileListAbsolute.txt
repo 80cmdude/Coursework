@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\bin\Debug\Firebrand.Demos.Demo18_Linq.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\bin\Debug\Firebrand.Demos.Demo18_Linq.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\bin\Debug\Firebrand.Demos.Demo18_Linq.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\obj\Debug\Firebrand.Demos.Demo18_Linq.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\obj\Debug\Firebrand.Demos.Demo18_Linq.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo18_Linq\obj\Debug\Firebrand.Demos.Demo18_Linq.pdb

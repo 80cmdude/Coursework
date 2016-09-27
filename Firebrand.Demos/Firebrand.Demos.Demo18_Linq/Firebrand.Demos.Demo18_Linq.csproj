@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>b7e96f0b-8a1c-4853-a64b-d639db82522f</ProjectGuid>
+    <ProjectGuid>{F4D9CC10-2AD0-4A6A-9B39-DACEC641C734}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Firebrand.Demos.Demo18_Linq</RootNamespace>
