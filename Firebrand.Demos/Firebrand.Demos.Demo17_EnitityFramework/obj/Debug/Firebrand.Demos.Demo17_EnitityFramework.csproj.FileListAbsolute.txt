@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\bin\Debug\Firebrand.Demos.Demo17_EnitityFramework.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\bin\Debug\Firebrand.Demos.Demo17_EnitityFramework.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\bin\Debug\Firebrand.Demos.Demo17_EnitityFramework.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\obj\Debug\Firebrand.Demos.Demo17_EnitityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\obj\Debug\Firebrand.Demos.Demo17_EnitityFramework.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo17_EnitityFramework\obj\Debug\Firebrand.Demos.Demo17_EnitityFramework.pdb

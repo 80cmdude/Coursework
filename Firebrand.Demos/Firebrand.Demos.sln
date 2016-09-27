@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo15_IO",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo16_Serialization", "Firebrand.Demos.Demo16_Serialization\Firebrand.Demos.Demo16_Serialization.csproj", "{54AFED1D-02BA-4124-8B05-EBC6A58C30F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo17_EnitityFramework", "Firebrand.Demos.Demo17_EnitityFramework\Firebrand.Demos.Demo17_EnitityFramework.csproj", "{3D234BD1-7FAA-4FEC-921F-FCA33CF600F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{54AFED1D-02BA-4124-8B05-EBC6A58C30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54AFED1D-02BA-4124-8B05-EBC6A58C30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54AFED1D-02BA-4124-8B05-EBC6A58C30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D234BD1-7FAA-4FEC-921F-FCA33CF600F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D234BD1-7FAA-4FEC-921F-FCA33CF600F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D234BD1-7FAA-4FEC-921F-FCA33CF600F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D234BD1-7FAA-4FEC-921F-FCA33CF600F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
