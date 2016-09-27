@@ -8,5 +8,6 @@ namespace Firebrand.Demos
 {
     class Animal
     {
+
     }
 }

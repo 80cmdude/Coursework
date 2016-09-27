@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\bin\Debug\Firebrand.Demos.Demo13_ObjectInheritance.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\bin\Debug\Firebrand.Demos.Demo13_ObjectInheritance.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\bin\Debug\Firebrand.Demos.Demo13_ObjectInheritance.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\obj\Debug\Firebrand.Demos.Demo13_ObjectInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\obj\Debug\Firebrand.Demos.Demo13_ObjectInheritance.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo13_ObjectInheritance\obj\Debug\Firebrand.Demos.Demo13_ObjectInheritance.pdb

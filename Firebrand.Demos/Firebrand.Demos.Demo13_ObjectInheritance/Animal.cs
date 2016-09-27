@@ -6,8 +6,30 @@ using System.Threading.Tasks;
 
 namespace Firebrand.Demos
 {
-    public class Animal
+    public abstract class Animal : IAnimal
     {
+        private string _sound;
+        public Animal(int numberOfLegs, string sound)
+        {
+            NumberOfLegs = numberOfLegs;
+            _sound = sound;
+        }
 
+        public Animal(string sound)
+        {
+            _sound = sound;
+        }
+
+        public int NumberOfLegs { get; set; }
+
+        public virtual void DisplayName()
+        {
+            Console.WriteLine("Animal");      
+        }
+
+        public void Vocalize()
+        {
+            Console.WriteLine(_sound);
+        }
     }
 }

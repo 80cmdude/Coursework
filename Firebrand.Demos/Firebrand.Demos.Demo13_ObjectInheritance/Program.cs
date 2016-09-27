@@ -10,6 +10,29 @@ namespace Firebrand.Demos
     {
         static void Main(string[] args)
         {
+            Dog rover = new Dog("This dog can say hello!");
+
+            rover.Vocalize();
+
+            Console.ReadKey();
+        }
+    }
+
+    public class Dog : Animal
+    {
+        public Dog(string sound) : base(4, sound)
+        {
+
+        }
+
+        public Dog() : base(4, "Woof!")
+        {
+            
+        }
+        public override void DisplayName()
+        {
+            //base.DisplayName();
+            Console.WriteLine("dog");
         }
     }
 }
