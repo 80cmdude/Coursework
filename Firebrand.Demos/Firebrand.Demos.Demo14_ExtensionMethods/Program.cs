@@ -18,7 +18,7 @@ namespace Firebrand.Demos.Demo14_ExtensionMethods
     }
 
     static class MyFunctions 
-    {
+    { 
         public static bool IsValidEmail(this string email)
         {
             return System.Text.RegularExpressions.Regex.IsMatch(email, @"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
