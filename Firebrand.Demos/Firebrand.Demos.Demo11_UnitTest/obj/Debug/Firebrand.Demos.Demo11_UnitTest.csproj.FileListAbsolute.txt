@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\bin\Debug\Firebrand.Demos.Demo11_UnitTest.dll
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\bin\Debug\Firebrand.Demos.Demo11_UnitTest.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\bin\Debug\Firebrand.Demos.Demo03_ClassLibrary.dll
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\bin\Debug\Firebrand.Demos.Demo03_ClassLibrary.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\obj\Debug\Firebrand.Demos.Demo11_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\obj\Debug\Firebrand.Demos.Demo11_UnitTest.dll
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo11_UnitTest\obj\Debug\Firebrand.Demos.Demo11_UnitTest.pdb

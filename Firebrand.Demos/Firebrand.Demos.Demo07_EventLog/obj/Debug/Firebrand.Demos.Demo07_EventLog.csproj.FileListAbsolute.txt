@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo07_EventLog\bin\Debug\Firebrand.Demos.Demo07_EventLog.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo07_EventLog\bin\Debug\Firebrand.Demos.Demo07_EventLog.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo07_EventLog\bin\Debug\Firebrand.Demos.Demo07_EventLog.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo07_EventLog\obj\Debug\Firebrand.Demos.Demo07_EventLog.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo07_EventLog\obj\Debug\Firebrand.Demos.Demo07_EventLog.pdb

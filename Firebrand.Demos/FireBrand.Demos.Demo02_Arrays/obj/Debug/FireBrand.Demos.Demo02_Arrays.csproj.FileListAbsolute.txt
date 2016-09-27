@@ -7,3 +7,6 @@ c:\users\admin\documents\visual studio 2012\Projects\Firebrand.Demos\FireBrand.D
 C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\bin\Debug\FireBrand.Demos.Demo02_Arrays.exe.config
 C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\obj\Debug\FireBrand.Demos.Demo02_Arrays.exe
 C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\obj\Debug\FireBrand.Demos.Demo02_Arrays.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\bin\Debug\FireBrand.Demos.Demo02_Arrays.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\bin\Debug\FireBrand.Demos.Demo02_Arrays.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\FireBrand.Demos.Demo02_Arrays\obj\Debug\Firebrand.Demos.Demo02_Arrays.csprojResolveAssemblyReference.cache

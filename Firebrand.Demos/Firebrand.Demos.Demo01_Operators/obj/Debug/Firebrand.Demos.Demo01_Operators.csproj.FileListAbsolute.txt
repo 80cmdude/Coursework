@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2012\Projects\Firebrand.Demos\Firebrand.D
 c:\users\admin\documents\visual studio 2012\Projects\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2012\Projects\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.exe
 c:\users\admin\documents\visual studio 2012\Projects\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\bin\Debug\Firebrand.Demos.Demo01_Operators.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\bin\Debug\Firebrand.Demos.Demo01_Operators.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\bin\Debug\Firebrand.Demos.Demo01_Operators.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo01_Operators\obj\Debug\Firebrand.Demos.Demo01_Operators.pdb
