@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\bin\Debug\Firebrand.Demos.Demo16_Serialization.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\bin\Debug\Firebrand.Demos.Demo16_Serialization.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\bin\Debug\Firebrand.Demos.Demo16_Serialization.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\obj\Debug\Firebrand.Demos.Demo16_Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\obj\Debug\Firebrand.Demos.Demo16_Serialization.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo16_Serialization\obj\Debug\Firebrand.Demos.Demo16_Serialization.pdb
