@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\bin\Debug\Firebrand.Demos.Demo14_ExtensionMethods.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\bin\Debug\Firebrand.Demos.Demo14_ExtensionMethods.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\bin\Debug\Firebrand.Demos.Demo14_ExtensionMethods.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\obj\Debug\Firebrand.Demos.Demo14_ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\obj\Debug\Firebrand.Demos.Demo14_ExtensionMethods.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo14_ExtensionMethods\obj\Debug\Firebrand.Demos.Demo14_ExtensionMethods.pdb
