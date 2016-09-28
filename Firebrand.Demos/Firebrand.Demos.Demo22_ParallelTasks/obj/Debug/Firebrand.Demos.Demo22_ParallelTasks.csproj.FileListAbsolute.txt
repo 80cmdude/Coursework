@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\bin\Debug\Firebrand.Demos.Demo22_ParallelTasks.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\bin\Debug\Firebrand.Demos.Demo22_ParallelTasks.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\bin\Debug\Firebrand.Demos.Demo22_ParallelTasks.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\obj\Debug\Firebrand.Demos.Demo22_ParallelTasks.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\obj\Debug\Firebrand.Demos.Demo22_ParallelTasks.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo22_ParallelTasks\obj\Debug\Firebrand.Demos.Demo22_ParallelTasks.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>db12305b-e110-4214-832f-63aadac7c3a4</ProjectGuid>
+    <ProjectGuid>{E1EB7E13-53FE-4B34-A4DF-565B23C03872}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Firebrand.Demos.Demo22_ParallelTasks</RootNamespace>

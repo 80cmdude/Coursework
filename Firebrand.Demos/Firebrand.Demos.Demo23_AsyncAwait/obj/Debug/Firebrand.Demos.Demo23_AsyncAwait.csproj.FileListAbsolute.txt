@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\bin\Debug\Firebrand.Demos.Demo23_AsyncAwait.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\bin\Debug\Firebrand.Demos.Demo23_AsyncAwait.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\bin\Debug\Firebrand.Demos.Demo23_AsyncAwait.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait_MarkupCompile.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.g.resources
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo23_AsyncAwait\obj\Debug\Firebrand.Demos.Demo23_AsyncAwait.pdb
