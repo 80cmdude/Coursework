@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FourthCoffeeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="FourthCoffeeModelStoreContainer">
+    <EntitySet Name="Branches" EntityType="FourthCoffeeModel.Store.Branches" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employees" EntityType="FourthCoffeeModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="JobTitles" EntityType="FourthCoffeeModel.Store.JobTitles" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Employees_Branches" Association="FourthCoffeeModel.Store.FK_Employees_Branches">
+      <End Role="Branches" EntitySet="Branches" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employees_JobTitles" Association="FourthCoffeeModel.Store.FK_Employees_JobTitles">
+      <End Role="JobTitles" EntitySet="JobTitles" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Branches">
+    <Key>
+      <PropertyRef Name="BranchID" />
+    </Key>
+    <Property Name="BranchID" Type="int" Nullable="false" />
+    <Property Name="BranchName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DateOfBirth" Type="date" />
+    <Property Name="Branch" Type="int" />
+    <Property Name="JobTitle" Type="int" />
+  </EntityType>
+  <EntityType Name="JobTitles">
+    <Key>
+      <PropertyRef Name="JobTitleId" />
+    </Key>
+    <Property Name="JobTitleId" Type="int" Nullable="false" />
+    <Property Name="Job" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Employees_Branches">
+    <End Role="Branches" Type="FourthCoffeeModel.Store.Branches" Multiplicity="0..1" />
+    <End Role="Employees" Type="FourthCoffeeModel.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branches">
+        <PropertyRef Name="BranchID" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="Branch" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employees_JobTitles">
+    <End Role="JobTitles" Type="FourthCoffeeModel.Store.JobTitles" Multiplicity="0..1" />
+    <End Role="Employees" Type="FourthCoffeeModel.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="JobTitles">
+        <PropertyRef Name="JobTitleId" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="JobTitle" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
