@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\bin\Debug\Firebrand.Demos.Demo21_Delegates.exe.config
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\bin\Debug\Firebrand.Demos.Demo21_Delegates.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\bin\Debug\Firebrand.Demos.Demo21_Delegates.pdb
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\obj\Debug\Firebrand.Demos.Demo21_Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\obj\Debug\Firebrand.Demos.Demo21_Delegates.exe
+C:\Users\Admin\Documents\GitHub\Coursework\Firebrand.Demos\Firebrand.Demos.Demo21_Delegates\obj\Debug\Firebrand.Demos.Demo21_Delegates.pdb
